@@ -9,7 +9,8 @@ $grey2: #e6e6e6;
 $grey3: #979797;
 
 //fonts
-$mainFont: OpenSans, sans-serif;
+$mainFont: "OpenSans", sans-serif;
+$H1Font: "bebas_neuebold", sans-serif;
 
 //screen
 $tablet: "min-width: 767px";
@@ -17,4 +18,5 @@ $desktop: "min-width: 1024px";
 $projector: "min-width: 1200px";
 
 // shadows
-$btnShadow: 0 4px 4px 0 #00000025;
+$mainShadow: 0 4px 4px 0 #00000025;
+$cardShadow: 0px 3px 14px 0px rgba(0, 0, 0, 0.3);
